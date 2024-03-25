@@ -410,7 +410,9 @@
 .section7 .inner-box .inner-button {
     text-align: center;
 }
-
+.section7 .line{
+    text-decoration: line-through;
+}
 /* End Section7 */
 /* Section8 */
 .section8 {
