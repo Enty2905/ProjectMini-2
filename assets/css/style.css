@@ -353,8 +353,8 @@
 /* End Section6 */
 /* Section7 */
 .section7 {
-    background-color: var(--color4);
-    padding: 100px;
+    background-color: #F2F2F2;
+    padding-bottom: 100px;
 }
 
 .section7 .inner-head {
